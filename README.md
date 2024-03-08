@@ -11,3 +11,5 @@ Annual degradation data was obtained by adapting the raw Annual Disruptions data
 The For90 layer (Vieilledent et al., 2018) and the Annual Disruptions data are only needed if following Option 2 in the code. 
 
 Interview data (social_data_survey_full_anonymised_CORRECT) were collected by Rio Heriainina in Bemainty area in October - November 2019. 
+
+**Script = Script_updated_for_publication**
