@@ -1,7 +1,7 @@
 # No-evidence-of-impacts-from-a-mining-rush-in-a-protected-forest
 This repository contains the input data and code used in the study entitled 'No evidence of impacts from a mining rush in a protected forest'. 2024. Authors: Katie Devenish, Simon Willcock, Kathryn M. Goodenough, Rio Heriniaina, O. Sarobidy Rakotonarivo, Julia P.G. Jones.  
 
-This code and data represent the methodologys and produce the results presented in the above paper.
+This code and data constitute the methodology and produce the results presented in the above paper.
 
 The analysis involves calculating the annual deforestation and degradation rate within all Level 9 drainage basins in the study area (the ex-province of Toamasina in Madagascar) in order to estimate the impact of a large artisanal mining rush for sapphires in the Bemainty drainage basin using the synthetic control method for impact evaluation.
 
